@@ -1,0 +1,536 @@
+2024-02-11T12:52:08.809Z info: Attempting user registration
+2024-02-11T12:52:08.819Z warn: Registration attempted with existing username or email
+2024-02-11T12:53:03.478Z info: Attempting user registration
+2024-02-11T12:53:03.483Z warn: Registration attempted with existing username or email
+2024-02-11T13:11:22.063Z info: Send Single SMS - processing request
+2024-02-11T13:11:22.077Z warn: Send Single SMS - contact not found within project
+2024-02-11T14:21:28.260Z warn: Send Single SMS - missing required fields
+2024-02-11T14:24:44.592Z info: Send Single SMS - processing request
+2024-02-11T14:24:44.602Z info: Send Single SMS - SMS to 7193444422 queued for sending
+2024-02-11T14:34:22.331Z info: Send Single SMS - processing request
+2024-02-11T14:34:23.050Z info: Processed Message: Yo, Shwayne3 this is big man. Be sure and drop your opinion off here: https://www.7one9.com
+2024-02-11T14:34:23.050Z info: Send Single SMS - SMS to 7193444422 queued for sending
+2024-02-11T20:56:43.736Z info: Send Single SMS - processing request
+2024-02-11T20:56:44.416Z info: Processed personalized message: Hello Shwayne, please take a moment to share your opinion: https://www.7one9.com
+2024-02-11T20:56:44.416Z info: Send Single SMS - SMS to 7193444422 queued for sending
+2024-02-11T21:01:32.528Z warn: Send Single SMS - missing required fields
+2024-02-11T21:02:44.643Z warn: Send Single SMS - missing required fields
+2024-02-11T21:02:51.295Z warn: Send Single SMS - missing required fields
+2024-02-11T21:03:02.464Z info: Send Single SMS - processing request
+2024-02-11T21:03:03.236Z info: Processed personalized message: Hello Shwayne, please take a moment to share your opinion: https://www.7one9.com
+2024-02-11T21:03:03.237Z info: Send Single SMS - SMS to 7193444422 queued for sending
+2024-02-11T21:03:54.169Z warn: Send Single SMS - missing required fields
+2024-02-11T21:05:18.021Z info: Send Single SMS - processing request
+2024-02-11T21:05:18.026Z warn: Send Single SMS - contact not found within project
+2024-02-11T21:06:04.168Z info: Send Single SMS - processing request
+2024-02-11T21:06:04.171Z error: Error sending single SMS: Cast to ObjectId failed for value "65unknown" (type string) at path "_id" for model "Project"
+2024-02-11T21:36:10.137Z warn: Send Single SMS - missing required fields
+2024-02-11T21:36:35.455Z info: Send Single SMS - processing request
+2024-02-11T21:36:36.587Z info: Processed personalized message: Yo, Shwayne3 this is big man. Be sure and drop your opinion off here: https://www.7one9.com
+2024-02-11T21:36:36.587Z info: Send Single SMS - SMS to 7193444422 queued for sending
+2024-02-11T21:42:41.496Z info: Send Single SMS - processing request
+2024-02-11T21:42:42.165Z info: Processed personalized message: Yo, Shwayne3 this is big man. Be sure and drop your opinion off here: https://www.7one9.com
+2024-02-11T21:42:42.165Z info: Send Single SMS - SMS to 7193444422 queued for sending
+2024-02-11T21:48:36.198Z info: Send Single SMS - processing request
+2024-02-11T21:48:36.833Z error: Error processing message for contact 65c89fcd8d50d1eefb80a251: Failed to send single SMS due to error: ReferenceError: logger is not defined
+2024-02-11T21:53:44.297Z info: Send Single SMS - processing request
+2024-02-11T21:53:44.961Z info: Message with SID SMadb0d377deccfb58a5a14a143b1423bb saved successfully.
+2024-02-11T21:53:44.961Z info: Processed personalized message: Yo, Shwayne3 this is big man. Be sure and drop your opinion off here: https://www.7one9.com
+2024-02-11T21:53:44.962Z info: Send Single SMS - SMS to 7193444422 queued for sending
+2024-02-11T22:01:47.832Z info: Delivery Status Received - SID: SM8fde248d099abfb147ef2e3f5edfa79c, Status: delivered, To: +17193444422
+2024-02-11T22:03:18.555Z error: Delivery Status Update - missing required fields
+2024-02-11T22:04:48.596Z info: Send Single SMS - processing request
+2024-02-11T22:04:49.244Z info: Message with SID SM750d73a1839611e9f08ca70b9535d2e2 saved successfully.
+2024-02-11T22:04:49.245Z info: Processed personalized message: Yo, Shwayne3 this is big man. Be sure and drop your opinion off here: https://www.7one9.com
+2024-02-11T22:04:49.245Z info: Send Single SMS - SMS to 7193444422 queued for sending
+2024-02-11T22:34:44.072Z info: Send Single SMS - processing request
+2024-02-11T22:34:44.553Z info: Message with SID SM35c729408b7bf061aa12ee2cf806f6c3 saved successfully.
+2024-02-11T22:34:44.554Z info: Processed personalized message: Yo, Shwayne3 this is big man. Be sure and drop your opinion off here: https://www.7one9.com
+2024-02-11T22:34:44.554Z info: Send Single SMS - SMS to 7193444422 queued for sending
+2024-02-11T22:35:45.035Z info: Delivery Status Received - SID: SM8fde248d099abfb147ef2e3f5edfa79c, Status: delivered, To: +17193444422
+2024-02-11T22:42:39.838Z info: Send Single SMS - Processing request
+2024-02-11T22:42:40.480Z info: Message with SID SM34e639e6c3d19feb894b481d6f0254c9 saved successfully.
+2024-02-11T22:42:40.481Z info: Processed personalized message: Yo, Shwayne3 this is big man. Be sure and drop your opinion off here: https://www.7one9.com
+2024-02-11T22:42:40.482Z info: Send Single SMS - SMS to 7193444422 queued for sending
+2024-02-11T22:45:18.286Z info: Delivery Status Received and saved - SID: SM34e639e6c3d19feb894b481d6f0254c9, Status: delivered, To: +17193444422
+2024-02-11T22:47:52.053Z info: Message with SID SM34e639e6c3d19feb894b481d6f0254c9 saved successfully.
+2024-02-11T22:56:19.815Z info: Send Single SMS - Processing request
+2024-02-11T22:56:20.480Z info: Message with SID SM36b8a3006b840f084226ab08bfb82d5a saved successfully.
+2024-02-11T22:56:20.480Z info: Processed personalized message: Yo, Shwayne3 this is big man. Be sure and drop your opinion off here: https://www.7one9.com
+2024-02-11T22:56:20.480Z info: Send Single SMS - SMS to 7193444422 queued for sending
+2024-02-11T22:57:15.550Z info: Delivery Status Received and saved - SID: SM36b8a3006b840f084226ab08bfb82d5a, Status: delivered, To: +17193444422
+2024-02-12T03:09:02.295Z info: Message with SID SMa8c00df74f79f09433a296343bd5d2f0 saved successfully.
+2024-02-12T03:24:01.668Z error: Error saving message with SID undefined: ValidationError: messageSid: Path `messageSid` is required.
+2024-02-12T03:31:18.933Z info: Send Single SMS - Processing request
+2024-02-12T03:31:20.052Z info: Message with SID SMa43e8f87149f7dc9b69ff66630f15b9b saved successfully.
+2024-02-12T03:31:20.052Z info: Processed personalized message: Your personalized message here Shwayne {suveyLink}
+2024-02-12T03:31:20.053Z info: Send Single SMS - SMS to 7193444422 queued for sending
+2024-02-12T03:52:50.106Z info: Send Single SMS - Processing request
+2024-02-12T03:52:50.806Z info: Message with SID SMe71ee05b0affdd157cc9f6f8ff36fc8c saved successfully.
+2024-02-12T03:52:50.806Z info: Processed personalized message: Your personalized message here Shwayne {suveyLink}
+2024-02-12T03:52:50.807Z info: Send Single SMS - SMS to 7193444422 queued for sending
+2024-02-12T04:13:35.580Z info: Send Single SMS - Processing request
+2024-02-12T04:13:36.419Z info: Message with SID SM964efa3072031ee3450e0bc967ba7a2e saved successfully.
+2024-02-12T04:13:36.420Z info: Processed personalized message: Your personalized message here
+2024-02-12T04:13:36.420Z info: Send Single SMS - SMS to 7193444422 queued for sending
+2024-02-12T04:28:11.570Z info: Send Single SMS - Processing request
+2024-02-12T04:28:13.311Z info: Message with SID SM52079fccc12d0a27788ae1eed1c23d41 saved successfully.
+2024-02-12T04:28:13.311Z info: Processed personalized message: Your personalized message here
+2024-02-12T04:28:13.311Z info: Send Single SMS - SMS to 7193444422 queued for sending
+2024-02-12T04:28:46.357Z info: Send Single SMS - Processing request
+2024-02-12T04:28:48.691Z info: Message with SID SMe7fe987b7967814a08ad8cff0e831ac2 saved successfully.
+2024-02-12T04:28:48.691Z info: Processed personalized message: Your personalized message here
+2024-02-12T04:28:48.691Z info: Send Single SMS - SMS to 7193444422 queued for sending
+2024-02-12T04:29:41.425Z info: Message with SID SMe7fe987b7967814a08ad8cff0e831ac2 saved successfully.
+2024-02-12T04:35:51.124Z info: WebSocket Server initialized.
+2024-02-12T04:36:23.769Z info: Fetching conversations for project 65c98e132ca07dd81929f01a
+2024-02-12T04:48:16.228Z info: WebSocket Server initialized.
+2024-02-12T04:48:18.943Z info: Message with SID SMe7fe987b7967814a08ad8cff0e83qqqf saved successfully.
+2024-02-12T05:02:58.721Z info: WebSocket Server initialized.
+2024-02-12T05:05:30.965Z info: WebSocket Server initialized.
+2024-02-12T05:19:51.366Z info: WebSocket Server initialized.
+2024-02-12T05:27:53.472Z info: WebSocket Server initialized.
+2024-02-12T05:29:03.070Z error: Caught exception: Error: listen EADDRINUSE: address already in use :::3000. Exception origin: uncaughtException
+2024-02-12T05:29:05.179Z error: Caught exception: Error: listen EADDRINUSE: address already in use :::3000. Exception origin: uncaughtException
+2024-02-12T05:32:35.529Z error: Caught exception: Error: listen EADDRINUSE: address already in use :::3000. Exception origin: uncaughtException
+2024-02-12T05:33:38.827Z error: Caught exception: Error: listen EADDRINUSE: address already in use :::3000. Exception origin: uncaughtException
+2024-02-12T06:24:10.172Z error: Caught exception: Error: listen EADDRINUSE: address already in use :::3000. Exception origin: uncaughtException
+2024-02-12T06:25:34.648Z error: Caught exception: Error: listen EADDRINUSE: address already in use :::3000. Exception origin: uncaughtException
+2024-02-12T06:27:54.983Z info: WebSocket Server initialized.
+2024-02-12T06:33:10.105Z info: smsSendingRoutes mounted on /api/sms
+2024-02-12T06:33:10.110Z info: WebSocket Server initialized.
+2024-02-12T06:33:19.902Z warn: Validation failed for sending MMS: {"to":"+17193444422","from":"+17196665823","body":"Test MMS  {name}","projectId":"65c98e132ca07dd81929f01a","mediaUrl":"https://yodieland.co/cdn/shop/files/55.png"}
+2024-02-12T06:35:47.530Z warn: Validation failed for sending MMS: {"contactId":"65c98e132ca07dd81929f01b","from":"+17196665823","body":"Test MMS","projectId":"65c98e132ca07dd81929f01a","mediaUrl":"https://yodieland.co/cdn/shop/files/55.png"}
+2024-02-12T06:38:58.027Z info: smsSendingRoutes mounted on /api/sms
+2024-02-12T06:38:58.032Z info: WebSocket Server initialized.
+2024-02-12T06:39:02.531Z warn: Validation failed for sending MMS: Missing required fields: message in request {"contactId":"65c98e132ca07dd81929f01b","from":"+17196665823","body":"Test MMS","projectId":"65c98e132ca07dd81929f01a","mediaUrl":"https://yodieland.co/cdn/shop/files/55.png"}
+2024-02-12T06:39:48.218Z warn: Validation failed for sending MMS: Missing required fields: message in request {"contactId":"65c98e132ca07dd81929f01b","from":"+17196665823","body":"Test MMS","projectId":"65c98e132ca07dd81929f01a","mediaUrl":"https://yodieland.co/cdn/shop/files/55.png"}
+2024-02-12T06:41:34.832Z info: Received request to /send-mms with body: {"contactId":"65c98e132ca07dd81929f01b","from":"+17196665823","message":"Test MMS","projectId":"65c98e132ca07dd81929f01a","mediaUrl":"https://yodieland.co/cdn/shop/files/55.png"}
+2024-02-12T06:41:34.833Z info: Attempting to send MMS - Project ID: 65c98e132ca07dd81929f01a, Contact ID: 65c98e132ca07dd81929f01b, Media URL: https://yodieland.co/cdn/shop/files/55.png
+2024-02-12T06:41:35.642Z info: Message with SID MM52f70ab1b7d9b30009e394866a37762b saved successfully.
+2024-02-12T06:41:35.643Z info: MMS sent successfully to 7193444422 with SID MM52f70ab1b7d9b30009e394866a37762b
+2024-02-12T07:23:39.955Z info: smsSendingRoutes mounted on /api/sms
+2024-02-12T07:23:39.959Z info: WebSocket Server initialized.
+2024-02-12T07:23:49.791Z info: Message with SID MMd261ee66b048656ddff217d363f84cad saved successfully.
+2024-02-12T07:23:49.792Z info: MMS sent successfully to 7193444422 with SID: MMd261ee66b048656ddff217d363f84cad
+2024-02-12T07:36:57.480Z info: smsSendingRoutes mounted on /api/sms
+2024-02-12T07:36:57.485Z info: WebSocket Server initialized.
+2024-02-12T07:41:56.036Z info: smsSendingRoutes mounted on /api/sms
+2024-02-12T07:41:56.038Z info: Bulk SMS actions routes mounted on /api
+2024-02-12T07:41:56.042Z info: WebSocket Server initialized.
+2024-02-12T16:05:53.140Z info: Rotating to the next Twilio number: +17196665823
+2024-02-12T16:05:53.140Z info: Rotating every 10 messages. Current twilio number: +17196665823
+2024-02-12T16:05:53.694Z error: Error sending MMS: Invalid media URL(s)
+2024-02-12T16:05:53.695Z error: Error sending MMS: Error: Failed to send MMS
+2024-02-13T00:05:48.630Z info: smsSendingRoutes mounted on /api/sms
+2024-02-13T00:05:48.632Z info: Bulk SMS actions routes mounted on /api
+2024-02-13T00:05:48.637Z info: WebSocket Server initialized.
+2024-02-13T00:05:56.802Z info: smsSendingRoutes mounted on /api/sms
+2024-02-13T00:05:56.804Z info: Bulk SMS actions routes mounted on /api
+2024-02-13T00:05:56.808Z info: WebSocket Server initialized.
+2024-02-13T00:14:55.522Z info: Send Single SMS - Processing request
+2024-02-13T00:15:05.557Z error: Error sending single SMS: Operation `projects.findOne()` buffering timed out after 10000ms
+2024-02-13T00:16:46.418Z info: Send Single SMS - Processing request
+2024-02-13T00:16:56.455Z error: Error sending single SMS: Operation `projects.findOne()` buffering timed out after 10000ms
+2024-02-13T00:18:07.023Z info: Send Single SMS - Processing request
+2024-02-13T00:18:18.455Z info: smsSendingRoutes mounted on /api/sms
+2024-02-13T00:18:18.457Z info: Bulk SMS actions routes mounted on /api
+2024-02-13T00:18:18.460Z info: WebSocket Server initialized.
+2024-02-13T00:18:24.657Z info: Send Single SMS - Processing request
+2024-02-13T00:18:24.676Z info: Rotating to the next Twilio number: +17196665823
+2024-02-13T00:18:24.677Z info: Rotating every 10 messages. Current twilio number: +17196665823
+2024-02-13T00:18:25.363Z info: Single SMS Sent successfully with SID: SM5c10b15f11595b966ea7d25e48f305d7
+2024-02-13T00:18:25.376Z error: Error saving message with SID SM5c10b15f11595b966ea7d25e48f305d7: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-13T00:18:25.377Z error: Error in sending single SMS: Message validation failed: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-13T00:18:25.378Z error: Error processing message for contact 65c98e132ca07dd81929f01b: Failed to send single SMS due to error: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-13T00:23:02.464Z info: Send Single SMS - Processing request
+2024-02-13T00:23:02.468Z info: Rotating to the next Twilio number: +17196665823
+2024-02-13T00:23:02.468Z info: Rotating every 10 messages. Current twilio number: +17196665823
+2024-02-13T00:23:02.991Z info: Single SMS Sent successfully with SID: SM534cdcc8b0f32d3d1d3b40bd65e4a22b
+2024-02-13T00:23:02.993Z error: Error saving message with SID SM534cdcc8b0f32d3d1d3b40bd65e4a22b: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-13T00:23:02.993Z error: Error in sending single SMS: Message validation failed: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-13T00:23:02.993Z error: Error processing message for contact 65c98e132ca07dd81929f01b: Failed to send single SMS due to error: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-13T04:31:54.241Z info: smsSendingRoutes mounted on /api/sms
+2024-02-13T04:31:54.243Z info: Bulk SMS actions routes mounted on /api
+2024-02-13T04:31:54.248Z info: WebSocket Server initialized.
+2024-02-13T04:37:53.710Z info: Rotating every 10 messages. Current twilio number: +17196665823
+2024-02-13T04:37:53.713Z info: Rotating every 10 messages. Current twilio number: +17196665823
+2024-02-13T04:37:54.395Z info: MMS Sent: MM1fa90a4b52fdfd4f8238c8e44ed068de
+2024-02-13T04:37:54.409Z info: Message with SID MM1fa90a4b52fdfd4f8238c8e44ed068de saved successfully.
+2024-02-13T04:37:54.410Z info: MMS saved with SID: MM1fa90a4b52fdfd4f8238c8e44ed068de
+2024-02-13T04:37:54.452Z info: MMS Sent: MMfd9aa75ff7448ddce8241e4a5b8dee26
+2024-02-13T04:37:54.456Z info: Message with SID MMfd9aa75ff7448ddce8241e4a5b8dee26 saved successfully.
+2024-02-13T04:37:54.456Z info: MMS saved with SID: MMfd9aa75ff7448ddce8241e4a5b8dee26
+2024-02-13T04:37:54.456Z info: Bulk MMS send operation completed. Success: 2, Failed: 0
+2024-02-13T04:49:22.248Z info: smsSendingRoutes mounted on /api/sms
+2024-02-13T04:49:22.250Z info: Bulk SMS actions routes mounted on /api
+2024-02-13T04:49:22.254Z info: WebSocket Server initialized.
+2024-02-13T04:49:26.118Z info: Attempting user login
+2024-02-13T04:49:26.127Z warn: Login attempted with non-existent username
+2024-02-13T04:49:44.457Z info: Attempting user registration
+2024-02-13T04:49:44.468Z error: Error during user registration:
+2024-02-13T04:51:03.001Z info: Attempting user registration
+2024-02-13T04:51:03.004Z error: Error during user registration:
+2024-02-13T04:51:31.571Z info: Attempting user registration
+2024-02-13T04:51:31.574Z error: Error during user registration:
+2024-02-13T04:53:12.358Z info: Attempting user registration
+2024-02-13T04:53:12.451Z info: User created successfully
+2024-02-13T04:54:25.687Z info: Attempting user login
+2024-02-13T04:54:25.762Z info: User logged in successfully
+2024-02-13T05:01:51.128Z info: Attempting user registration
+2024-02-13T05:01:51.131Z error: Error during user registration:
+2024-02-13T05:03:42.294Z info: Attempting user registration
+2024-02-13T05:03:42.297Z warn: Registration attempted with existing username or email
+2024-02-13T05:03:51.924Z info: Attempting user registration
+2024-02-13T05:03:51.928Z warn: Registration attempted with existing username or email
+2024-02-13T05:04:02.481Z info: Attempting user registration
+2024-02-13T05:04:02.575Z info: User created successfully
+2024-02-13T05:04:53.714Z info: Attempting user login
+2024-02-13T05:04:53.820Z info: User logged in successfully
+2024-02-13T05:06:56.074Z info: Send Single SMS - Processing request
+2024-02-13T05:06:56.078Z info: Rotating to the next Twilio number: +17196665823
+2024-02-13T05:06:56.078Z info: Rotating every 10 messages. Current twilio number: +17196665823
+2024-02-13T05:06:56.769Z info: Single SMS Sent successfully with SID: SM11a901cd473baf64fe6690bbec0a4702
+2024-02-13T05:06:56.770Z error: Error saving message with SID SM11a901cd473baf64fe6690bbec0a4702: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-13T05:06:56.771Z error: Error in sending single SMS: Message validation failed: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-13T05:06:56.771Z error: Error processing message for contact 65c98e132ca07dd81929f01b: Failed to send single SMS due to error: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-13T05:22:46.803Z info: Attempting user login
+2024-02-13T05:22:46.906Z info: User logged in successfully
+2024-02-13T05:29:22.761Z info: smsSendingRoutes mounted on /api/sms
+2024-02-13T05:29:22.763Z info: Bulk SMS actions routes mounted on /api
+2024-02-13T05:29:22.767Z info: WebSocket Server initialized.
+2024-02-13T05:33:49.807Z info: Attempting user login
+2024-02-13T05:33:49.919Z info: User logged in successfully
+2024-02-13T05:42:29.564Z info: smsSendingRoutes mounted on /api/sms
+2024-02-13T05:42:29.566Z info: Bulk SMS actions routes mounted on /api
+2024-02-13T05:42:29.570Z info: WebSocket Server initialized.
+2024-02-13T05:45:25.457Z info: Attempting user login
+2024-02-13T05:45:25.563Z info: User logged in successfully
+2024-02-13T05:57:58.609Z info: Attempting user login
+2024-02-13T05:57:58.706Z info: User logged in successfully
+2024-02-13T06:05:09.105Z info: smsSendingRoutes mounted on /api/sms
+2024-02-13T06:05:09.107Z info: Bulk SMS actions routes mounted on /api
+2024-02-13T06:05:09.111Z info: WebSocket Server initialized.
+2024-02-13T06:09:47.100Z info: smsSendingRoutes mounted on /api/sms
+2024-02-13T06:09:47.102Z info: Bulk SMS actions routes mounted on /api
+2024-02-13T06:09:47.106Z info: WebSocket Server initialized.
+2024-02-13T06:10:46.278Z info: Send Single SMS - Processing request
+2024-02-13T06:10:46.281Z info: Rotating to the next Twilio number: +17196665823
+2024-02-13T06:10:46.281Z info: Rotating every 10 messages. Current twilio number: +17196665823
+2024-02-13T06:10:46.907Z info: Single SMS Sent successfully with SID: SM156825eb3edaf277eaa7a38808b14467
+2024-02-13T06:10:46.908Z error: Error saving message with SID SM156825eb3edaf277eaa7a38808b14467: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-13T06:10:46.909Z error: Error in sending single SMS: Message validation failed: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-13T06:10:46.909Z error: Error processing message for contact 65c89fcd8d50d1eefb80a251: Failed to send single SMS due to error: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-13T06:14:48.643Z info: Serving static files from 'public' directory.
+2024-02-13T06:14:48.727Z info: smsSendingRoutes mounted on /api/sms
+2024-02-13T06:14:48.728Z info: Bulk SMS actions routes mounted on /api
+2024-02-13T06:14:48.732Z info: WebSocket Server initialized.
+2024-02-13T06:17:41.410Z info: Fetching conversations for project PUT_PROJECT_ID_HERE
+2024-02-13T06:17:41.419Z error: Error fetching conversations for projectId PUT_PROJECT_ID_HERE: CastError: Cast to ObjectId failed for value "PUT_PROJECT_ID_HERE" (type string) at path "projectId" for model "Conversation"
+2024-02-14T09:25:22.951Z info: Serving static files from 'public' directory.
+2024-02-14T09:25:23.083Z info: smsSendingRoutes mounted on /api/sms
+2024-02-14T09:25:23.084Z info: Bulk SMS actions routes mounted on /api
+2024-02-14T09:25:23.088Z info: WebSocket Server initialized.
+2024-02-14T09:32:13.900Z error: Error creating project:
+2024-02-14T09:32:13.909Z error: Unhandled Rejection at: [object Promise] reason: RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: Error creating project
+2024-02-14T09:37:06.121Z info: Serving static files from 'public' directory.
+2024-02-14T09:37:06.203Z info: smsSendingRoutes mounted on /api/sms
+2024-02-14T09:37:06.204Z info: Bulk SMS actions routes mounted on /api
+2024-02-14T09:37:06.207Z info: WebSocket Server initialized.
+2024-02-14T09:37:08.764Z error: Error creating project:
+2024-02-14T09:37:08.771Z error: Error occurred with project creation. Request data: {"json":"{\"name\":\"Test Project\",\"description\":\"A test description\"}"}
+2024-02-14T09:41:42.134Z error: Error creating project:
+2024-02-14T09:41:42.135Z error: Error occurred with project creation. Request data: {"json":"{\"name\":\"Test Project\",\"description\":\"A test description\"}"}
+2024-02-14T09:42:38.530Z warn: Create project: No file uploaded
+2024-02-14T09:50:10.450Z info: Serving static files from 'public' directory.
+2024-02-14T09:50:10.534Z info: smsSendingRoutes mounted on /api/sms
+2024-02-14T09:50:10.534Z info: Bulk SMS actions routes mounted on /api
+2024-02-14T09:50:10.539Z info: WebSocket Server initialized.
+2024-02-14T09:54:08.543Z info: Serving static files from 'public' directory.
+2024-02-14T09:54:08.621Z info: smsSendingRoutes mounted on /api/sms
+2024-02-14T09:54:08.622Z info: Bulk SMS actions routes mounted on /api
+2024-02-14T09:54:08.625Z info: WebSocket Server initialized.
+2024-02-14T09:54:32.247Z error: Error creating project:
+2024-02-14T09:55:44.822Z info: Project created successfully
+2024-02-14T09:57:27.900Z info: Send Single SMS - Processing request
+2024-02-14T09:57:27.932Z info: Rotating to the next Twilio number: +17196665823
+2024-02-14T09:57:27.932Z info: Rotating every 10 messages. Current twilio number: +17196665823
+2024-02-14T09:57:28.572Z info: Single SMS Sent successfully with SID: SM1def5f7650ba8230860754337c1b8288
+2024-02-14T09:57:28.580Z error: Error saving message with SID SM1def5f7650ba8230860754337c1b8288: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T09:57:28.580Z error: Error in sending single SMS: Message validation failed: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T09:57:28.581Z error: Error processing message for contact 65c89fcd8d50d1eefb80a251: Failed to send single SMS due to error: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T10:08:05.743Z info: Serving static files from 'public' directory.
+2024-02-14T10:08:05.829Z info: smsSendingRoutes mounted on /api/sms
+2024-02-14T10:08:05.830Z info: Bulk SMS actions routes mounted on /api
+2024-02-14T10:08:05.834Z info: WebSocket Server initialized.
+2024-02-14T10:08:10.656Z info: Parsed CSV data with ObjectIds: [{"_id":"65cc910a9a4aacd103b38d96","fname":"Jess","lname":"RodBog","phone":"7194218868","email":"jessikuhh_rod@icloud.com","size":"M","customer":"Maybe"},{"_id":"65cc910a9a4aacd103b38d97","fname":"Chon","lname":"Lon","phone":"7193444422","email":"seanwichers@gmail.com","size":"L","customer":"Yes"},{"_id":"65cc910a9a4aacd103b38d98","fname":"Jesshh","lname":"RodBogdfs","phone":"7194218868","email":"jessikuhh_rod@icloud.com","size":"F","customer":"No"},{"_id":"65cc910a9a4aacd103b38d99","fname":"Chontee","lname":"Lonfree","phone":"7193444422","email":"seanwichers@gmail.com","size":"J","customer":"Nay"}]
+2024-02-14T10:08:10.681Z info: Project created successfully
+2024-02-14T10:10:15.465Z warn: Send Single SMS - Missing required fields
+2024-02-14T10:14:38.170Z warn: Send Single SMS - Missing required fields
+2024-02-14T10:14:41.801Z warn: Send Single SMS - Missing required fields
+2024-02-14T10:15:38.251Z info: Send Single SMS - Processing request
+2024-02-14T10:15:38.254Z warn: Send Single SMS - Contact not found within project
+2024-02-14T10:19:06.950Z info: Send Single SMS - Processing request
+2024-02-14T10:19:06.954Z warn: Send Single SMS - Contact not found within project
+2024-02-14T10:19:38.298Z info: Parsed CSV data with ObjectIds: [{"_id":"65cc93ba9a4aacd103b38d9c","fname":"Jess","lname":"RodBog","phone":"7194218868","email":"jessikuhh_rod@icloud.com","size":"M","customer":"Maybe"},{"_id":"65cc93ba9a4aacd103b38d9d","fname":"Chon","lname":"Lon","phone":"7193444422","email":"seanwichers@gmail.com","size":"L","customer":"Yes"},{"_id":"65cc93ba9a4aacd103b38d9e","fname":"Jesshh","lname":"RodBogdfs","phone":"7194218868","email":"jessikuhh_rod@icloud.com","size":"F","customer":"No"},{"_id":"65cc93ba9a4aacd103b38d9f","fname":"Chontee","lname":"Lonfree","phone":"7193444422","email":"seanwichers@gmail.com","size":"J","customer":"Nay"}]
+2024-02-14T10:19:38.301Z info: Project created successfully
+2024-02-14T10:23:12.981Z info: Parsed CSV data with ObjectIds: [{"_id":"65cc94909a4aacd103b38da2","fname":"Jess","lname":"RodBog","phone":"7194218868","email":"jessikuhh_rod@icloud.com","size":"M","customer":"Maybe"},{"_id":"65cc94909a4aacd103b38da3","fname":"Chon","lname":"Lon","phone":"7193444422","email":"seanwichers@gmail.com","size":"L","customer":"Yes"},{"_id":"65cc94909a4aacd103b38da4","fname":"Jesshh","lname":"RodBogdfs","phone":"7194218868","email":"jessikuhh_rod@icloud.com","size":"F","customer":"No"},{"_id":"65cc94909a4aacd103b38da5","fname":"Chontee","lname":"Lonfree","phone":"7193444422","email":"seanwichers@gmail.com","size":"J","customer":"Nay"}]
+2024-02-14T10:23:12.986Z info: Project created successfully
+2024-02-14T10:24:57.129Z info: Send Single SMS - Processing request
+2024-02-14T10:24:57.131Z info: Rotating to the next Twilio number: +17196665823
+2024-02-14T10:24:57.132Z info: Rotating every 10 messages. Current twilio number: +17196665823
+2024-02-14T10:24:57.754Z info: Single SMS Sent successfully with SID: SMf37242c70be198679cd63400ec748505
+2024-02-14T10:24:57.755Z error: Error saving message with SID SMf37242c70be198679cd63400ec748505: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T10:24:57.755Z error: Error in sending single SMS: Message validation failed: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T10:24:57.755Z error: Error processing message for contact 65cc94909a4aacd103b38da3: Failed to send single SMS due to error: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T10:34:43.590Z info: Send Single SMS - Processing request
+2024-02-14T10:34:43.593Z info: Rotating to the next Twilio number: +17196665823
+2024-02-14T10:34:43.594Z info: Rotating every 10 messages. Current twilio number: +17196665823
+2024-02-14T10:34:44.064Z info: Single SMS Sent successfully with SID: SMd16e7c71df2acf2f6ce4172633231002
+2024-02-14T10:34:44.065Z error: Error saving message with SID SMd16e7c71df2acf2f6ce4172633231002: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T10:34:44.065Z error: Error in sending single SMS: Message validation failed: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T10:34:44.065Z error: Error processing message for contact 65cc94909a4aacd103b38da3: Failed to send single SMS due to error: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T10:37:51.790Z info: Send Single SMS - Processing request
+2024-02-14T10:37:51.793Z info: Rotating to the next Twilio number: +17196665823
+2024-02-14T10:37:51.793Z info: Rotating to the next Twilio number: +17196665823
+2024-02-14T10:37:51.793Z info: Rotating every 10 messages. Current twilio number: +17196665823
+2024-02-14T10:37:52.276Z info: Single SMS Sent successfully with SID: SMaaa1eac9a4bc109e6f560d944d8efb31
+2024-02-14T10:37:52.277Z error: Error saving message with SID SMaaa1eac9a4bc109e6f560d944d8efb31: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T10:37:52.277Z error: Error in sending single SMS: Message validation failed: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T10:37:52.278Z error: Error processing message for contact 65cc94909a4aacd103b38da3: Failed to send single SMS due to error: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T10:55:15.469Z info: Serving static files from 'public' directory.
+2024-02-14T10:55:15.550Z info: smsSendingRoutes mounted on /api/sms
+2024-02-14T10:55:15.551Z info: Bulk SMS actions routes mounted on /api
+2024-02-14T10:55:15.555Z info: WebSocket Server initialized.
+2024-02-14T10:55:23.914Z info: Send Single SMS - Processing request
+2024-02-14T10:55:23.916Z info: Rotating to the next Twilio number: +17196665823
+2024-02-14T10:55:23.917Z info: Rotating every 10 messages. Current twilio number: +17196665823
+2024-02-14T10:55:24.527Z info: Single SMS Sent successfully with SID: SM1ed7c53eaa81ac9b0687529b790c3e81
+2024-02-14T10:55:24.528Z error: Error saving message with SID SM1ed7c53eaa81ac9b0687529b790c3e81: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T10:55:24.528Z error: Error in sending single SMS: Message validation failed: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T10:55:24.528Z error: Error processing message for contact 65cc94909a4aacd103b38da3: Failed to send single SMS due to error: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T10:55:55.518Z info: Send Single SMS - Processing request
+2024-02-14T10:55:55.521Z info: Rotating to the next Twilio number: +17196665823
+2024-02-14T10:55:55.521Z info: Rotating every 10 messages. Current twilio number: +17196665823
+2024-02-14T10:55:55.979Z info: Single SMS Sent successfully with SID: SM4221967c1880d4f6333f6e4f8e08b336
+2024-02-14T10:55:55.980Z error: Error saving message with SID SM4221967c1880d4f6333f6e4f8e08b336: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T10:55:55.981Z error: Error in sending single SMS: Message validation failed: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T10:55:55.981Z error: Error processing message for contact 65cc94909a4aacd103b38da3: Failed to send single SMS due to error: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T11:42:21.818Z info: Send Single SMS - Processing request
+2024-02-14T11:42:21.821Z info: Rotating to the next Twilio number: +17196665823
+2024-02-14T11:42:21.821Z info: Rotating every 10 messages. Current twilio number: +17196665823
+2024-02-14T11:42:22.205Z info: Single SMS Sent successfully with SID: SM516f22191a86054c0c486e05f4d1baee
+2024-02-14T11:42:22.206Z error: Error saving message with SID SM516f22191a86054c0c486e05f4d1baee: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T11:42:22.206Z error: Error in sending single SMS: Message validation failed: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T11:42:22.206Z error: Error processing message for contact 65cc94909a4aacd103b38da3: Failed to send single SMS due to error: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T11:48:22.990Z info: Serving static files from 'public' directory.
+2024-02-14T11:48:23.071Z info: smsSendingRoutes mounted on /api/sms
+2024-02-14T11:48:23.072Z info: Bulk SMS actions routes mounted on /api
+2024-02-14T11:48:23.076Z info: WebSocket Server initialized.
+2024-02-14T11:48:30.769Z info: Send SMS - processing request
+2024-02-14T11:48:30.788Z info: Rotating to the next Twilio number: +17196665823
+2024-02-14T11:48:30.789Z info: Rotating every 10 messages. Current twilio number: +17196665823
+2024-02-14T11:48:31.459Z info: SMS Sent: SM3c158afbcecb3e4e8a20983c71e9b804
+2024-02-14T11:48:31.471Z error: Error saving message with SID SM3c158afbcecb3e4e8a20983c71e9b804: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T11:48:31.472Z error: Error sending SMS: Message validation failed: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T11:48:31.472Z error: Error sending SMS: Failed to send SMS
+2024-02-14T11:50:38.767Z info: Parsed CSV data with ObjectIds: [{"_id":"65cca90e6f397d6d765dde70","fname":"Jess","lname":"RodBog","phone":"7194218868","email":"jessikuhh_rod@icloud.com","size":"M","customer":"Maybe"},{"_id":"65cca90e6f397d6d765dde71","fname":"Chon","lname":"Lon","phone":"7193444422","email":"seanwichers@gmail.com","size":"L","customer":"Yes"},{"_id":"65cca90e6f397d6d765dde72","fname":"Jesshh","lname":"RodBogdfs","phone":"7194218868","email":"jessikuhh_rod@icloud.com","size":"F","customer":"No"},{"_id":"65cca90e6f397d6d765dde73","fname":"Chontee","lname":"Lonfree","phone":"7193444422","email":"seanwichers@gmail.com","size":"J","customer":"Nay"}]
+2024-02-14T11:50:38.777Z info: Project created successfully
+2024-02-14T11:51:31.591Z info: Send SMS - processing request
+2024-02-14T11:51:31.595Z warn: Send SMS - project not found
+2024-02-14T11:53:12.370Z info: Send SMS - processing request
+2024-02-14T11:53:12.374Z info: Rotating to the next Twilio number: +17196665823
+2024-02-14T11:53:12.374Z info: Rotating every 10 messages. Current twilio number: +17196665823
+2024-02-14T11:53:12.832Z info: SMS Sent: SMa12ce8b1392b2d04db9bab91f1bcf18d
+2024-02-14T11:53:12.834Z error: Error saving message with SID SMa12ce8b1392b2d04db9bab91f1bcf18d: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T11:53:12.834Z error: Error sending SMS: Message validation failed: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T11:53:12.835Z error: Error sending SMS: Failed to send SMS
+2024-02-14T11:58:54.262Z info: Serving static files from 'public' directory.
+2024-02-14T11:58:54.344Z info: smsSendingRoutes mounted on /api/sms
+2024-02-14T11:58:54.344Z info: Bulk SMS actions routes mounted on /api
+2024-02-14T11:58:54.348Z info: WebSocket Server initialized.
+2024-02-14T12:46:47.933Z info: Serving static files from 'public' directory.
+2024-02-14T12:46:48.017Z info: smsSendingRoutes mounted on /api/sms
+2024-02-14T12:46:48.017Z info: Bulk SMS actions routes mounted on /api
+2024-02-14T12:46:48.021Z info: WebSocket Server initialized.
+2024-02-14T12:48:16.802Z info: Fetching conversations for project PUT_PROJECT_ID_HERE
+2024-02-14T12:48:16.807Z error: Error fetching conversations for projectId PUT_PROJECT_ID_HERE: CastError: Cast to ObjectId failed for value "PUT_PROJECT_ID_HERE" (type string) at path "projectId" for model "Conversation"
+2024-02-14T18:22:55.266Z info: Serving static files from 'public' directory.
+2024-02-14T18:22:55.352Z info: smsSendingRoutes mounted on /api/sms
+2024-02-14T18:22:55.353Z info: Bulk SMS actions routes mounted on /api
+2024-02-14T18:22:55.357Z info: WebSocket Server initialized.
+2024-02-18T07:56:50.475Z info: Serving static files from 'public' directory.
+2024-02-18T07:56:50.593Z info: smsSendingRoutes mounted on /api/sms
+2024-02-18T07:56:50.593Z info: Bulk SMS actions routes mounted on /api
+2024-02-18T07:56:50.596Z info: WebSocket Server initialized.
+2024-02-18T12:53:53.714Z info: Serving static files from 'public' directory.
+2024-02-18T12:53:53.828Z info: smsSendingRoutes mounted on /api/sms
+2024-02-18T12:53:53.829Z info: Bulk SMS actions routes mounted on /api
+2024-02-18T12:53:53.832Z info: WebSocket Server initialized.
+2024-02-18T12:54:36.285Z info: Fetching conversations for project PUT_PROJECT_ID_HERE
+2024-02-18T12:54:36.293Z error: Error fetching conversations for projectId PUT_PROJECT_ID_HERE: CastError: Cast to ObjectId failed for value "PUT_PROJECT_ID_HERE" (type string) at path "projectId" for model "Conversation"
+2024-02-18T12:55:10.427Z info: Serving static files from 'public' directory.
+2024-02-18T12:55:10.509Z info: smsSendingRoutes mounted on /api/sms
+2024-02-18T12:55:10.509Z info: Bulk SMS actions routes mounted on /api
+2024-02-18T12:55:10.513Z info: WebSocket Server initialized.
+2024-02-18T13:09:45.739Z info: Client connected to WebSocket
+2024-02-18T13:09:45.741Z error: Caught exception: Error: server.handleUpgrade() was called more than once with the same socket, possibly due to a misconfiguration. Exception origin: uncaughtException
+2024-02-18T13:11:01.225Z info: Client connected to WebSocket
+2024-02-18T13:11:01.226Z error: Caught exception: Error: server.handleUpgrade() was called more than once with the same socket, possibly due to a misconfiguration. Exception origin: uncaughtException
+2024-02-18T13:11:14.736Z info: Received message from client: hello
+
+2024-02-18T13:11:51.235Z info: Received message from client: hello
+
+2024-02-18T13:11:57.731Z info: Received message from client: yo
+
+2024-02-18T13:12:01.220Z info: Received message from client: no
+
+2024-02-18T13:55:10.795Z info: Serving static files from 'public' directory.
+2024-02-18T13:55:10.916Z info: smsSendingRoutes mounted on /api/sms
+2024-02-18T13:55:10.917Z info: Bulk SMS actions routes mounted on /api
+2024-02-18T13:55:10.921Z info: WebSocket Server initialized.
+2024-02-18T13:56:13.163Z info: Fetching conversations for project PUT_PROJECT_ID_HERE
+2024-02-18T13:56:13.168Z error: Error fetching conversations for projectId PUT_PROJECT_ID_HERE: CastError: Cast to ObjectId failed for value "PUT_PROJECT_ID_HERE" (type string) at path "projectId" for model "Conversation"
+2024-02-18T13:58:33.622Z info: Serving static files from 'public' directory.
+2024-02-18T13:58:33.713Z info: smsSendingRoutes mounted on /api/sms
+2024-02-18T13:58:33.714Z info: Bulk SMS actions routes mounted on /api
+2024-02-18T13:58:33.718Z info: WebSocket Server initialized.
+2024-02-18T13:58:57.826Z info: Client connected to WebSocket
+2024-02-18T13:59:02.259Z info: Received message from client: hello
+
+2024-02-18T13:59:11.187Z info: Fetching conversations for project 65cca90e6f397d6d765dde74
+2024-02-18T14:16:12.363Z info: Received message from client: nl
+
+2024-02-18T14:19:47.042Z info: Serving static files from 'public' directory.
+2024-02-18T14:19:47.128Z info: smsSendingRoutes mounted on /api/sms
+2024-02-18T14:19:47.129Z info: Bulk SMS actions routes mounted on /api
+2024-02-18T14:19:47.132Z info: WebSocket Server initialized.
+2024-02-18T14:20:31.285Z info: Client connected to WebSocket
+2024-02-18T14:20:40.720Z info: Client connected to WebSocket
+2024-02-18T14:20:42.556Z info: Received message from client: hi
+
+2024-02-18T14:20:46.780Z info: Received message from client: yo
+
+2024-02-18T14:57:00.579Z info: Client disconnected
+2024-02-18T21:43:03.516Z info: Serving static files from 'public' directory.
+2024-02-18T21:43:03.643Z info: smsSendingRoutes mounted on /api/sms
+2024-02-18T21:43:03.643Z info: Bulk SMS actions routes mounted on /api
+2024-02-18T21:43:03.648Z info: WebSocket Server initialized.
+2024-02-18T21:47:17.845Z info: Serving static files from 'public' directory.
+2024-02-18T21:47:17.931Z info: smsSendingRoutes mounted on /api/sms
+2024-02-18T21:47:17.932Z info: Bulk SMS actions routes mounted on /api
+2024-02-18T21:47:17.936Z info: WebSocket Server initialized.
+2024-02-18T21:52:31.446Z info: Serving static files from 'public' directory.
+2024-02-18T21:52:31.532Z info: smsSendingRoutes mounted on /api/sms
+2024-02-18T21:52:31.532Z info: Bulk SMS actions routes mounted on /api
+2024-02-18T21:52:31.536Z info: WebSocket Server initialized.
+2024-02-18T22:07:49.340Z info: Serving static files from 'public' directory.
+2024-02-18T22:07:49.435Z info: smsSendingRoutes mounted on /api/sms
+2024-02-18T22:07:49.436Z info: Bulk SMS actions routes mounted on /api
+2024-02-18T22:07:49.440Z info: WebSocket Server initialized.
+2024-02-18T22:09:54.858Z info: Serving static files from 'public' directory.
+2024-02-18T22:09:54.964Z info: smsSendingRoutes mounted on /api/sms
+2024-02-18T22:09:54.965Z info: Bulk SMS actions routes mounted on /api
+2024-02-18T22:09:54.968Z info: WebSocket Server initialized.
+2024-02-18T22:09:58.432Z error: Error saving message with SID SM0332dd3e17de73ef2e51a327656c870a: ValidationError: projectId: Path `projectId` is required., body: Path `body` is required., to: Path `to` is required., from: Path `from` is required.
+2024-02-18T22:14:47.546Z info: Serving static files from 'public' directory.
+2024-02-18T22:14:47.635Z info: smsSendingRoutes mounted on /api/sms
+2024-02-18T22:14:47.636Z info: Bulk SMS actions routes mounted on /api
+2024-02-18T22:14:47.640Z info: WebSocket Server initialized.
+2024-02-18T22:14:50.335Z info: Message with SID SM0332dd3e17de73ef2e51a327656c870a saved successfully.
+2024-02-18T22:14:50.336Z info: New message saved with SID SM0332dd3e17de73ef2e51a327656c870a
+2024-02-18T22:16:43.718Z info: Message with SID SMb462a6c8f676b418a5432d7601ab80dd saved successfully.
+2024-02-18T22:16:43.719Z info: New message saved with SID SMb462a6c8f676b418a5432d7601ab80dd
+2024-02-18T22:18:20.328Z info: Message with SID SMde6e0b3915723cdf72f3c538eeb1c754 saved successfully.
+2024-02-18T22:18:20.328Z info: New message saved with SID SMde6e0b3915723cdf72f3c538eeb1c754
+2024-02-18T22:26:21.883Z info: Serving static files from 'public' directory.
+2024-02-18T22:26:21.970Z info: smsSendingRoutes mounted on /api/sms
+2024-02-18T22:26:21.970Z info: Bulk SMS actions routes mounted on /api
+2024-02-18T22:26:21.974Z info: WebSocket Server initialized.
+2024-02-18T22:26:24.227Z info: Client connected to WebSocket
+2024-02-18T22:26:50.677Z info: Message with SID SM0332dd3e17de73ef2e51a327656c870a saved successfully.
+2024-02-18T22:26:50.678Z info: New message saved with SID SM0332dd3e17de73ef2e51a327656c870a
+2024-02-18T22:26:50.680Z info: Broadcasted message to all connected clients
+2024-02-18T22:26:50.681Z info: Broadcasted message from +17193444422 to +17196665823
+2024-02-18T22:29:46.545Z info: Serving static files from 'public' directory.
+2024-02-18T22:29:46.636Z info: smsSendingRoutes mounted on /api/sms
+2024-02-18T22:29:46.637Z info: Bulk SMS actions routes mounted on /api
+2024-02-18T22:29:46.641Z info: WebSocket Server initialized.
+2024-02-18T22:30:04.994Z info: Client connected to WebSocket
+2024-02-18T22:30:05.016Z info: Fetching conversations for project 65cca90e6f397d6d765dde74
+2024-02-18T22:30:10.990Z info: Message with SID SM0332dd3e17de73ef2e51a327656c870a saved successfully.
+2024-02-18T22:30:10.990Z info: New message saved with SID SM0332dd3e17de73ef2e51a327656c870a
+2024-02-18T22:30:10.991Z info: Broadcasted message to all connected clients
+2024-02-18T22:30:10.991Z info: Broadcasted message from +17193444422 to +17196665823
+2024-02-18T22:30:37.710Z info: Message with SID SMe449623680cefd4bb90d922e2971f1bc saved successfully.
+2024-02-18T22:30:37.710Z info: New message saved with SID SMe449623680cefd4bb90d922e2971f1bc
+2024-02-18T22:30:37.711Z info: Broadcasted message to all connected clients
+2024-02-18T22:30:37.711Z info: Broadcasted message from +17193444422 to +17196665823
+2024-02-18T22:30:50.924Z info: Client connected to WebSocket
+2024-02-18T22:30:59.997Z info: Message with SID SM9ac73152905e0667206890c3c04193ef saved successfully.
+2024-02-18T22:30:59.997Z info: New message saved with SID SM9ac73152905e0667206890c3c04193ef
+2024-02-18T22:30:59.998Z info: Broadcasted message to all connected clients
+2024-02-18T22:30:59.998Z info: Broadcasted message from +17193444422 to +17196665823
+2024-02-18T22:32:56.578Z info: Client disconnected
+2024-02-18T22:32:56.773Z info: Fetching conversations for project 65cca90e6f397d6d765dde74
+2024-02-18T22:32:56.779Z info: Client connected to WebSocket
+2024-02-18T22:38:02.238Z info: Serving static files from 'public' directory.
+2024-02-18T22:38:02.331Z info: smsSendingRoutes mounted on /api/sms
+2024-02-18T22:38:02.332Z info: Bulk SMS actions routes mounted on /api
+2024-02-18T22:38:02.336Z info: WebSocket Server initialized.
+2024-02-18T22:38:08.265Z info: Client connected to WebSocket
+2024-02-18T22:38:08.282Z info: Fetching conversations for project 65cca90e6f397d6d765dde74
+2024-02-18T22:38:08.296Z info: Fetched samples for project 65c98e132ca07dd81929f01a, Page: 1, Limit: 10
+2024-02-18T22:38:29.047Z info: Fetched samples for project 65c98e132ca07dd81929f01a, Page: 1, Limit: 10
+2024-02-18T22:38:30.162Z info: Fetched samples for project 65c98e132ca07dd81929f01a, Page: 1, Limit: 10
+2024-02-18T22:38:33.616Z info: Fetched samples for project 65c98e132ca07dd81929f01a, Page: 1, Limit: 10
+2024-02-18T22:38:34.600Z info: Fetched samples for project 65c98e132ca07dd81929f01a, Page: 1, Limit: 10
+2024-02-18T22:38:52.663Z info: Message with SID SM419d5c81ad9a7642bcbb4abc70b0202a saved successfully.
+2024-02-18T22:38:52.663Z info: New message saved with SID SM419d5c81ad9a7642bcbb4abc70b0202a
+2024-02-18T22:38:52.664Z info: Broadcasted message to all connected clients
+2024-02-18T22:38:52.664Z info: Broadcasted message from +17193444422 to +17196665823
+2024-02-18T22:40:23.891Z info: Message with SID SMXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX saved successfully.
+2024-02-18T22:40:23.892Z info: New message saved with SID SMXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2024-02-18T22:40:23.893Z info: Broadcasted message to all connected clients
+2024-02-18T22:40:23.893Z info: Broadcasted message from +15557654321 to +15551234567
+2024-02-18T22:45:10.704Z info: Serving static files from 'public' directory.
+2024-02-18T22:45:10.797Z info: smsSendingRoutes mounted on /api/sms
+2024-02-18T22:45:10.797Z info: Bulk SMS actions routes mounted on /api
+2024-02-18T22:45:10.801Z info: WebSocket Server initialized.
+2024-02-18T22:45:29.265Z info: Message with SID SM8b63d3fd568c4545055a4cde6b852dfb saved successfully.
+2024-02-18T22:45:29.266Z info: New message saved with SID SM8b63d3fd568c4545055a4cde6b852dfb
+2024-02-18T22:45:29.266Z info: Broadcasted message to all connected clients
+2024-02-18T22:45:29.267Z info: Broadcasted message from +17193444422 to +17196665823
+2024-02-18T22:45:35.207Z info: Fetching conversations for project 65cca90e6f397d6d765dde74
+2024-02-18T22:45:35.217Z info: Client connected to WebSocket
+2024-02-18T22:45:35.220Z info: Fetched samples for project 65c98e132ca07dd81929f01a, Page: 1, Limit: 10
+2024-02-18T22:45:40.163Z info: Message with SID SM53eff74331e527b70007ff9196cc907f saved successfully.
+2024-02-18T22:45:40.163Z info: New message saved with SID SM53eff74331e527b70007ff9196cc907f
+2024-02-18T22:45:40.164Z info: Broadcasted message to all connected clients
+2024-02-18T22:45:40.164Z info: Broadcasted message from +17193444422 to +17196665823
+2024-02-18T22:46:22.554Z info: Client connected to WebSocket
+2024-02-18T22:46:25.546Z info: Received message from client: yodie
+
+2024-02-18T22:47:27.041Z info: Message with SID SM38cddaf508818cd1fd6de8add1adc7b5 saved successfully.
+2024-02-18T22:47:27.041Z info: New message saved with SID SM38cddaf508818cd1fd6de8add1adc7b5
+2024-02-18T22:47:27.042Z info: Broadcasted message to all connected clients
+2024-02-18T22:47:27.042Z info: Broadcasted message from +17193444422 to +17196665823
+2024-02-18T22:47:29.785Z info: Message with SID SM60862fa199a03b1aa03a9920f8eb73de saved successfully.
+2024-02-18T22:47:29.786Z info: New message saved with SID SM60862fa199a03b1aa03a9920f8eb73de
+2024-02-18T22:47:29.786Z info: Broadcasted message to all connected clients
+2024-02-18T22:47:29.786Z info: Broadcasted message from +17193444422 to +17196665823
+2024-02-18T22:50:35.617Z info: Serving static files from 'public' directory.
+2024-02-18T22:50:35.710Z info: smsSendingRoutes mounted on /api/sms
+2024-02-18T22:50:35.711Z info: Bulk SMS actions routes mounted on /api
+2024-02-18T22:50:35.715Z info: WebSocket Server initialized.
+2024-02-18T22:50:47.260Z info: Message with SID SM429ab46a4e608bead9cb56b6700cb55e saved successfully.
+2024-02-18T22:50:47.261Z info: New message saved with SID SM429ab46a4e608bead9cb56b6700cb55e
+2024-02-18T22:50:47.261Z info: Broadcasted message to all connected clients
+2024-02-18T22:50:47.261Z info: Broadcasted message from +17193444422 to +17196665823
+2024-02-18T22:50:50.479Z info: Client connected to WebSocket
+2024-02-18T22:50:50.548Z info: Fetching conversations for project 65cca90e6f397d6d765dde74
+2024-02-18T22:50:50.562Z info: Fetched samples for project 65c98e132ca07dd81929f01a, Page: 1, Limit: 10
+2024-02-18T22:50:57.888Z info: Message with SID SM8a2fb5b57d709b6a4e1dec6fde915d82 saved successfully.
+2024-02-18T22:50:57.889Z info: New message saved with SID SM8a2fb5b57d709b6a4e1dec6fde915d82
+2024-02-18T22:50:57.890Z info: Broadcasted message to all connected clients
+2024-02-18T22:50:57.890Z info: Broadcasted message from +17193444422 to +17196665823

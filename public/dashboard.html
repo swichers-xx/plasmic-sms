@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='UTF-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1.0'>
+<title>Analytics Dashboard</title>
+<link href='https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css' rel='stylesheet'>
+<script src='https://cdn.jsdelivr.net/npm/chart.js'></script>
+</head>
+<body>
+<div class='container mt-5'>
+<h2>Analytics Dashboard</h2>
+<!-- Add your charts and tables here -->
+<div id="conversationsSection">
+  <h3>Conversations</h3>
+  <div id="conversationsList"></div>
+</div>
+
+<div id="sampleRecordsManagementSection" class="mt-5">
+  <h3>Sample Records Management</h3>
+  <div>
+    <form id="searchSampleForm">
+      <div class="form-group">
+        <label for="searchTermPhone">Phone</label>
+        <input type="text" class="form-control" id="searchTermPhone" placeholder="Enter phone">
+      </div>
+      <div class="form-group">
+        <label for="searchTermName">Name</label>
+        <input type="text" class="form-control" id="searchTermName" placeholder="Enter name">
+      </div>
+      <button type="submit" class="btn btn-primary">Search</button>
+    </form>
+  </div>
+  <div id="sampleRecordsList" class="mt-3"></div>
+  <nav aria-label="Page navigation example" class="mt-3">
+    <ul class="pagination" id="paginationContainer"></ul>
+  </nav>
+</div>
+
+<div id="dynamicDataSection" class="mt-5">
+  <h3>Dynamic Sample Data</h3>
+  <table class="table" id="dynamicDataTable">
+    <thead id="dynamicDataHeader">
+      <!-- Column headers will be added dynamically -->
+    </thead>
+    <tbody id="dynamicDataRows">
+      <!-- Data rows will be added dynamically -->
+    </tbody>
+  </table>
+  <button class="btn btn-primary" onclick="showEditModal()">Add New Data</button>
+</div>
+
+<div id='inboxMessages' class='mt-3'>
+  <h3>Incoming Messages:</h3>
+  <!-- Messages will be displayed here -->
+</div>
+
+<div class="modal fade" id="editDataModal" tabindex="-1" role="dialog" aria-labelledby="editDataModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="editDataModalLabel">Edit Data</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <form id="editDataForm">
+          <!-- Inputs will be added dynamically -->
+        </form>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary" onclick="submitEditForm()">Save changes</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>
+<script src="scripts/conversations.js"></script>
+<script src="scripts/sampleRecords.js"></script>
+<script src="scripts/dynamicData.js"></script>
+<script src="scripts/websocketClient.js"></script>
+</body>
+</html>

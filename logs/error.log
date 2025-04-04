@@ -1,0 +1,71 @@
+2024-02-11T21:06:04.171Z error: Error sending single SMS: Cast to ObjectId failed for value "65unknown" (type string) at path "_id" for model "Project"
+2024-02-11T21:48:36.833Z error: Error processing message for contact 65c89fcd8d50d1eefb80a251: Failed to send single SMS due to error: ReferenceError: logger is not defined
+2024-02-11T22:03:18.555Z error: Delivery Status Update - missing required fields
+2024-02-12T03:24:01.668Z error: Error saving message with SID undefined: ValidationError: messageSid: Path `messageSid` is required.
+2024-02-12T05:29:03.070Z error: Caught exception: Error: listen EADDRINUSE: address already in use :::3000. Exception origin: uncaughtException
+2024-02-12T05:29:05.179Z error: Caught exception: Error: listen EADDRINUSE: address already in use :::3000. Exception origin: uncaughtException
+2024-02-12T05:32:35.529Z error: Caught exception: Error: listen EADDRINUSE: address already in use :::3000. Exception origin: uncaughtException
+2024-02-12T05:33:38.827Z error: Caught exception: Error: listen EADDRINUSE: address already in use :::3000. Exception origin: uncaughtException
+2024-02-12T06:24:10.172Z error: Caught exception: Error: listen EADDRINUSE: address already in use :::3000. Exception origin: uncaughtException
+2024-02-12T06:25:34.648Z error: Caught exception: Error: listen EADDRINUSE: address already in use :::3000. Exception origin: uncaughtException
+2024-02-12T16:05:53.694Z error: Error sending MMS: Invalid media URL(s)
+2024-02-12T16:05:53.695Z error: Error sending MMS: Error: Failed to send MMS
+2024-02-13T00:15:05.557Z error: Error sending single SMS: Operation `projects.findOne()` buffering timed out after 10000ms
+2024-02-13T00:16:56.455Z error: Error sending single SMS: Operation `projects.findOne()` buffering timed out after 10000ms
+2024-02-13T00:18:25.376Z error: Error saving message with SID SM5c10b15f11595b966ea7d25e48f305d7: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-13T00:18:25.377Z error: Error in sending single SMS: Message validation failed: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-13T00:18:25.378Z error: Error processing message for contact 65c98e132ca07dd81929f01b: Failed to send single SMS due to error: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-13T00:23:02.993Z error: Error saving message with SID SM534cdcc8b0f32d3d1d3b40bd65e4a22b: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-13T00:23:02.993Z error: Error in sending single SMS: Message validation failed: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-13T00:23:02.993Z error: Error processing message for contact 65c98e132ca07dd81929f01b: Failed to send single SMS due to error: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-13T04:49:44.468Z error: Error during user registration:
+2024-02-13T04:51:03.004Z error: Error during user registration:
+2024-02-13T04:51:31.574Z error: Error during user registration:
+2024-02-13T05:01:51.131Z error: Error during user registration:
+2024-02-13T05:06:56.770Z error: Error saving message with SID SM11a901cd473baf64fe6690bbec0a4702: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-13T05:06:56.771Z error: Error in sending single SMS: Message validation failed: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-13T05:06:56.771Z error: Error processing message for contact 65c98e132ca07dd81929f01b: Failed to send single SMS due to error: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-13T06:10:46.908Z error: Error saving message with SID SM156825eb3edaf277eaa7a38808b14467: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-13T06:10:46.909Z error: Error in sending single SMS: Message validation failed: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-13T06:10:46.909Z error: Error processing message for contact 65c89fcd8d50d1eefb80a251: Failed to send single SMS due to error: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-13T06:17:41.419Z error: Error fetching conversations for projectId PUT_PROJECT_ID_HERE: CastError: Cast to ObjectId failed for value "PUT_PROJECT_ID_HERE" (type string) at path "projectId" for model "Conversation"
+2024-02-14T09:32:13.900Z error: Error creating project:
+2024-02-14T09:32:13.909Z error: Unhandled Rejection at: [object Promise] reason: RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: Error creating project
+2024-02-14T09:37:08.764Z error: Error creating project:
+2024-02-14T09:37:08.771Z error: Error occurred with project creation. Request data: {"json":"{\"name\":\"Test Project\",\"description\":\"A test description\"}"}
+2024-02-14T09:41:42.134Z error: Error creating project:
+2024-02-14T09:41:42.135Z error: Error occurred with project creation. Request data: {"json":"{\"name\":\"Test Project\",\"description\":\"A test description\"}"}
+2024-02-14T09:54:32.247Z error: Error creating project:
+2024-02-14T09:57:28.580Z error: Error saving message with SID SM1def5f7650ba8230860754337c1b8288: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T09:57:28.580Z error: Error in sending single SMS: Message validation failed: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T09:57:28.581Z error: Error processing message for contact 65c89fcd8d50d1eefb80a251: Failed to send single SMS due to error: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T10:24:57.755Z error: Error saving message with SID SMf37242c70be198679cd63400ec748505: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T10:24:57.755Z error: Error in sending single SMS: Message validation failed: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T10:24:57.755Z error: Error processing message for contact 65cc94909a4aacd103b38da3: Failed to send single SMS due to error: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T10:34:44.065Z error: Error saving message with SID SMd16e7c71df2acf2f6ce4172633231002: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T10:34:44.065Z error: Error in sending single SMS: Message validation failed: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T10:34:44.065Z error: Error processing message for contact 65cc94909a4aacd103b38da3: Failed to send single SMS due to error: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T10:37:52.277Z error: Error saving message with SID SMaaa1eac9a4bc109e6f560d944d8efb31: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T10:37:52.277Z error: Error in sending single SMS: Message validation failed: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T10:37:52.278Z error: Error processing message for contact 65cc94909a4aacd103b38da3: Failed to send single SMS due to error: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T10:55:24.528Z error: Error saving message with SID SM1ed7c53eaa81ac9b0687529b790c3e81: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T10:55:24.528Z error: Error in sending single SMS: Message validation failed: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T10:55:24.528Z error: Error processing message for contact 65cc94909a4aacd103b38da3: Failed to send single SMS due to error: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T10:55:55.980Z error: Error saving message with SID SM4221967c1880d4f6333f6e4f8e08b336: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T10:55:55.981Z error: Error in sending single SMS: Message validation failed: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T10:55:55.981Z error: Error processing message for contact 65cc94909a4aacd103b38da3: Failed to send single SMS due to error: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T11:42:22.206Z error: Error saving message with SID SM516f22191a86054c0c486e05f4d1baee: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T11:42:22.206Z error: Error in sending single SMS: Message validation failed: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T11:42:22.206Z error: Error processing message for contact 65cc94909a4aacd103b38da3: Failed to send single SMS due to error: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T11:48:31.471Z error: Error saving message with SID SM3c158afbcecb3e4e8a20983c71e9b804: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T11:48:31.472Z error: Error sending SMS: Message validation failed: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T11:48:31.472Z error: Error sending SMS: Failed to send SMS
+2024-02-14T11:53:12.834Z error: Error saving message with SID SMa12ce8b1392b2d04db9bab91f1bcf18d: ValidationError: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T11:53:12.834Z error: Error sending SMS: Message validation failed: projectId: Cast to ObjectId failed for value "+17196665823" (type string) at path "projectId" because of "BSONError"
+2024-02-14T11:53:12.835Z error: Error sending SMS: Failed to send SMS
+2024-02-14T12:48:16.807Z error: Error fetching conversations for projectId PUT_PROJECT_ID_HERE: CastError: Cast to ObjectId failed for value "PUT_PROJECT_ID_HERE" (type string) at path "projectId" for model "Conversation"
+2024-02-18T12:54:36.293Z error: Error fetching conversations for projectId PUT_PROJECT_ID_HERE: CastError: Cast to ObjectId failed for value "PUT_PROJECT_ID_HERE" (type string) at path "projectId" for model "Conversation"
+2024-02-18T13:09:45.741Z error: Caught exception: Error: server.handleUpgrade() was called more than once with the same socket, possibly due to a misconfiguration. Exception origin: uncaughtException
+2024-02-18T13:11:01.226Z error: Caught exception: Error: server.handleUpgrade() was called more than once with the same socket, possibly due to a misconfiguration. Exception origin: uncaughtException
+2024-02-18T13:56:13.168Z error: Error fetching conversations for projectId PUT_PROJECT_ID_HERE: CastError: Cast to ObjectId failed for value "PUT_PROJECT_ID_HERE" (type string) at path "projectId" for model "Conversation"
+2024-02-18T22:09:58.432Z error: Error saving message with SID SM0332dd3e17de73ef2e51a327656c870a: ValidationError: projectId: Path `projectId` is required., body: Path `body` is required., to: Path `to` is required., from: Path `from` is required.
